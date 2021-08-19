@@ -1,0 +1,3 @@
+*.class
+src/main/java/com/home/all
+src/main/java/com/home/some/Three.java
